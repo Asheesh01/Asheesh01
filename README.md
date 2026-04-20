@@ -14,7 +14,7 @@ A passionate **Full Stack Developer** | **B.Tech Student** from India
 
 ## Currently Learning
 
-Exploring **DevOps** to streamline development processes and **AI/ML** to drive innovation.
+Exploring **Full Stack Development** to build modern web applications and **DevOps** to streamline development processes.
 
 ---
 
