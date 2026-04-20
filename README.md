@@ -112,17 +112,14 @@ I thrive on problem-solving, clean code, and continuous learning. My motto is si
 ### Education
 
 - B.Tech - Galgotias University (Currently Pursuing)
-- - Focus on Computer Science and Full Stack Development
+- Focus on Computer Science and Full Stack Development
+ ### GitHub Stats
  
-  - ### GitHub Stats
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asheesh01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+ - ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asheesh01&layout=compact&theme=tokyonight&hide_border=true)
  
-  - ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asheesh01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
- 
-  - ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asheesh01&layout=compact&theme=tokyonight&hide_border=true)
- 
-  - ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asheesh01&theme=tokyonight&hide_border=true)
- 
-  - ---
+- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asheesh01&theme=tokyonight&hide_border=true)
+ ---
 
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
   
