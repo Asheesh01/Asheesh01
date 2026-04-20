@@ -1,21 +1,14 @@
-<h1 align="center">Hey there! I'm Asheesh Yadav</h1>h1>
+# Hey there! I'm Asheesh Yadav
 
-<p align="center">
-  A passionate <strong>Full Stack Developer</strong>strong> | <strong>B.Tech Student</strong>strong> from India
-</p>p>
+A passionate **Full Stack Developer** | **B.Tech Student** from India
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things;Building+Cool+Projects" alt="Typing SVG" />
-</p>p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things;Building+Cool+Projects)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Asheesh01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/Asheesh01?label=Followers&style=social" alt="Followers" />
-</p>p>
+![Profile Views](https://komarev.com/ghpvc/?username=Asheesh01&label=Profile%20views&color=0e75b6&style=flat) ![Followers](https://img.shields.io/github/followers/Asheesh01?label=Followers&style=social)
 
 ---
 
@@ -33,61 +26,50 @@ Check out my repositories below!
 - - **[Web Food](https://github.com/Asheesh01/web-food)** - Food ordering web app
   - - **[Amazon Clone](https://github.com/Asheesh01/Amazon-clone)** - Full Amazon UI clone
     - - **[Course Sell Website](https://github.com/Asheesh01/course-sell-website)** - Online learning platform
-      -
-      - ---
-      -
-      - ## Ask me about
-      -
-      - **Full Stack Development**, **React.js**, **Node.js**, **JavaScript**, **HTML/CSS**, **MongoDB**
-      -
-      - ---
-      -
-      - ## Get in Touch
-      -
-      - [Email Me](mailto:asheeshyadav@example.com)
-      -
-      - ---
-      -
-      - ## Let's Connect!
-      -
-      - <p align="left">
-        <a href="https://twitter.com/" target="_blank">
-              <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40"/>
-        </a>a>
-          &nbsp;
-          <a href="https://linkedin.com/in/" target="_blank">
-                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
-          </a>a>
-          &nbsp;
-          <a href="https://instagram.com/" target="_blank">
-                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"/>
-          </a>a>
-          &nbsp;
-          <a href="https://www.youtube.com/" target="_blank">
-                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" widt"/>
-            </a>
-                &nbsp;
-            <a href="https://leetcode.com/" target="_blank">
-                    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40"/>
-            </a>a>
-      </p>p>
-      
-        ---
+  
+      ---
 
-        ## Tools:
+      ## Ask me about
 
-        <p align="left">
-              <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>a>
-              &nbsp;
-              <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>a>
-              &nbsp;
-              <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>a>
-              &nbsp;
-              <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>a>
-              &nbsp;
-              <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>a>
-              &nbsp;
-              <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/></a>a>
-              &nbsp;
-              <a href="https://www.mh="40
-        </strong></strong>
+      **Full Stack Development**, **React.js**, **Node.js**, **JavaScript**, **HTML/CSS**, **MongoDB**
+
+      ---
+
+      ## Get in Touch
+
+      [Email Me](mailto:asheeshyadav@example.com)
+
+      ---
+
+      ## Let's Connect!
+
+      [Twitter](https://twitter.com/) | [LinkedIn](https://linkedin.com/in/) | [Instagram](https://instagram.com/) | [YouTube](https://www.youtube.com/) | [LeetCode](https://leetcode.com/)
+
+      ---
+
+      ## Tools:
+
+      HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, MySQL, Git, Python, C, C++, Firebase, Docker, AWS, Figma
+  
+      ---
+
+      ## About Me
+
+      Hello! I am Asheesh Yadav, a passionate Full Stack Developer. I am currently pursuing my B.Tech at Galgotias University.
+
+      I enjoy building responsive web applications and exploring new technologies. My core tech stack includes MERN Stack.
+
+      I thrive on problem-solving, clean code, and continuous learning.
+
+      ### Education:
+
+      - **B.Tech** - Galgotias University (Currently Pursuing)
+      -
+      - ---
+
+      ## GitHub Stats:
+
+      ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asheesh01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asheesh01&layout=compact&theme=tokyonight&hide_border=true)
+      ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asheesh01&theme=tokyonight&hide_border=true)
+      - 
